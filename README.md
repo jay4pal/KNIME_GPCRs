@@ -5,7 +5,7 @@ test_files.zip 	       -- unzip folder to run the test files and update location
 
 user.config            -- text file for user inputs; update the locations and set options as required. 
 
-Dpendencies for python:
+Dependencies for python:
 
 
 ########## google.protobuf required for running python scripts in knime ####
